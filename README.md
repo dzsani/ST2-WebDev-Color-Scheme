@@ -4,7 +4,7 @@ This bundle licensed under MIT license: http://opensource.org/licenses/mit-licen
 
 And here are some screenshots:
 
-<img src="http://kreatura.hu/dl/sh1.png" alt="PHP">
-<img src="http://kreatura.hu/dl/sh1.png" alt="Javascript">
-<img src="http://kreatura.hu/dl/sh1.png" alt="CSS">
-<img src="http://kreatura.hu/dl/sh1.png" alt="HTML">
+![PHP](http://kreatura.hu/dl/sh1.png)
+![Javascript](http://kreatura.hu/dl/sh2.png)
+![CSS](http://kreatura.hu/dl/sh3.png)
+![HTML](http://kreatura.hu/dl/sh4.png)
